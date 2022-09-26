@@ -1,0 +1,7 @@
+package Question3;
+
+
+public enum Coffee 
+{
+EXPRESSO, FRAPPUCCINO, AMERICANNO, CAPPUCCINO, CORTADO, AFFORGATO, PLAIN, CUBANO, IRISH
+}
